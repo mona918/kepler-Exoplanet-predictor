@@ -93,7 +93,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run Streamlit app:
-
+https://huggingface.co/spaces/Monafr/kepler-exoplanet-detector
 streamlit run app.py
 
 ---
