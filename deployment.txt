@@ -1,0 +1,12 @@
+🌐 Deployment
+
+The machine learning model was deployed using:
+
+- Streamlit
+- Hugging Face Spaces
+
+https://huggingface.co/spaces/Monafr/kepler-exoplanet-detector
+
+
+The web app allows users to input Kepler observation parameters and instantly
+ receive predictions about whether the signal represents a confirmed exoplanet or a false alarm.
