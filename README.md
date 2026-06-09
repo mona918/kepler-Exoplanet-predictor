@@ -26,8 +26,8 @@ The system analyzes stellar transit characteristics and predicts planetary confi
 🧠 Machine Learning Models Used
 
 - Random Forest Classifier
-- XGBoost Classifier
-- Multi-Layer Perceptron (Neural Network)
+- knn Classifier
+- logistic regression
 
 ---
 
@@ -50,7 +50,6 @@ XGBoost achieved the best overall performance.
 - Pandas
 - NumPy
 - Scikit-learn
-- XGBoost
 - Streamlit
 - Imbalanced-learn
 - Hugging Face Spaces
