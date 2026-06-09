@@ -1,5 +1,5 @@
 # kepler-Exoplanet-predictor
-ml project for detecting exoplanets using NASA kepler telescope data with XGBoost,SMOTE,and Streamlite deployment
+ml project for detecting exoplanets using NASA kepler telescope data with SMOTE,and Streamlite deployment
 
 🚀 Kepler Exoplanet Predictor
 
@@ -39,8 +39,7 @@ The models were evaluated using:
 - Precision
 - Recall
 - F1-Score
-
-XGBoost achieved the best overall performance.
+random forest achieved the best overall performance.
 
 ---
 
